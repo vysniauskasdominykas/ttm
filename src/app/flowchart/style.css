@@ -1,0 +1,11 @@
+.drawflow-node {
+    background-color: #FFFFFF !important;
+}
+
+.drawflow-node.selected {
+    background-color: #EEEEEE !important;
+}
+
+.drawflow .drawflow-node .input {
+    background-color: #FFFFFF !important;
+}
