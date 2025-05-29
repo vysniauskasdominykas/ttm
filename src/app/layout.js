@@ -8,9 +8,6 @@ import ExpandLessIcon from "@mui/icons-material/ExpandLess";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 const theme = createTheme({
-	cssVariables: {
-		colorSchemeSelector: "class"
-	},
 	colorSchemes: {
 		light: {
 			palette: {
